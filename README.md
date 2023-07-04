@@ -1,7 +1,7 @@
 
 # Monoprice Select Mini V2
 
-You can find this file on [htpps://github.com/henkjannl/Monoprice](htpps://github.com/henkjannl/Monoprice). Potentially you need to make a Github account to doanload files, but that suold not be hard.
+You can find this file on [htpps://github.com/henkjannl/Monoprice](htpps://github.com/henkjannl/Monoprice). Potentially you need to make a Github account to download files, but that suold not be hard.
 
 This repository contains some files for the monoprice select mini V2 3D printer
 
@@ -13,7 +13,7 @@ The printer is very simple:
 
 A good website about the printer is [https://mpselectmini.com/start](https://mpselectmini.com/start). It contains many useful links.
 
-The printer is a direct clone from the Malayan M200 printer. I am including the user manual from this printer as pdf [here](.//m200_v2%20user%20manual.pdf). The user manual mentions WiFi but this is optional, this printer does not have WiFi `:sob:`
+The printer is a direct clone from the Malayan M200 printer. I am including the user manual from this printer as pdf [here](.//m200_v2%20user%20manual.pdf). The user manual mentions WiFi but this is optional, this printer does not have that option :-(
 
 
 
