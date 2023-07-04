@@ -33,7 +33,7 @@ In Pronterface, you can open a .gcode file and send it to the printer.
 
 I am including a working .gcode file [/Vaseline potje/Vaseline.gcode](./Vaseline%20potje/Vaseline.gcode). I printed this yesterday and it came out well.
 
-[Vaseline potje](Vaseline%20potje/Vaseline%20potje.jpg)
+![Vaseline potje](Vaseline%20potje/Vaseline%20potje.jpg)
 
 
 # Potential upgrade: Octoprint
