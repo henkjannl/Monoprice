@@ -29,13 +29,16 @@ When plugging in the USB cable of the printer, you can use Windows Device Manage
 
 In Pronterface, you can open a .gcode file and send it to the printer.
 
+# Test print
+
 I am including a working .gcode file [/Vaseline potje/Vaseline.gcode](./Vaseline%20potje/Vaseline.gcode). I printed this yesterday and it came out well.
 
+[Vaseline potje](Vaseline%20potje/Vaseline%20potje.jpg)
 
 
 # Potential upgrade: Octoprint
 
-To prevent having your computer connected all the time, it is potentially a good idea to connect the printer to a Raspberry Pi and install [Octaprint](https://octoprint.org/). Personally I don't have experience with Octaprint, but it is used a lot by the open source community. It allows you to send files to the printer over WiFi, and even lets you connect a camera to the Raspberry Pi to monitor what the printer is doing. If you see something goes wrong you can then stop the printer using your phone. But you need to inves something in a Raspberry Pi (and maybe a compatible webcam).
+To prevent having your computer connected all the time, it is potentially a good idea to connect the printer to a Raspberry Pi and install [Octoprint](https://octoprint.org/). Personally I don't have experience with Octoprint, but it is used a lot by the open source community. It allows you to send files to the printer over WiFi and even lets you connect a camera to the Raspberry Pi to monitor what the printer is doing. If you see something goes wrong you can then stop the printer using your phone. But you need to inves something in a Raspberry Pi (and maybe a compatible webcam).
 
 
 
