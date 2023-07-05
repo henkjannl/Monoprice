@@ -16,6 +16,11 @@ A good website about the printer is [https://mpselectmini.com/start](https://mps
 The printer is a direct clone from the Malayan M200 printer. I am including the user manual from this printer as pdf [here](.//m200_v2%20user%20manual.pdf). The user manual mentions WiFi but this is optional, this printer does not have that option :-(
 
 
+Unboxing video from Monoprice:
+[
+https://youtu.be/rErgaoGGldY](
+https://youtu.be/rErgaoGGldY)
+
 
 # SD card problem and workaround
 
